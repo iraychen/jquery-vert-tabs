@@ -2,9 +2,12 @@
 
 = Introduction =
 
-Add your content here.
-
+JQuery plugin for creating vertical tabs. For examples please download the source code below.
 
 = Source Code =
 
 http://code.google.com/p/jquery-vert-tabs/downloads/list
+
+= Screenshot =
+
+[http://jquery-vert-tabs.googlecode.com/files/vtabs.png]
