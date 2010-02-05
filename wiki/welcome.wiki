@@ -6,8 +6,11 @@ JQuery plugin for creating vertical tabs. For examples please download the sourc
 
 = Source Code =
 
+<b>Latest version: 1.1</b>
+
 http://code.google.com/p/jquery-vert-tabs/downloads/list
 
 = Screenshot =
 
 [http://jquery-vert-tabs.googlecode.com/files/vtabs.png]
+[http://jquery-vert-tabs.googlecode.com/files/vtabs2.png]
